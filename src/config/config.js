@@ -4,7 +4,7 @@ module.exports = {
         database: {
             host: 'localhost',
             port: 3306,
-            name: "db_usuario",
+            name: 'db_usuario',
             dialect: 'mysql',
             user: 'root',
             password: 'j0a044574'
@@ -17,4 +17,3 @@ module.exports = {
         }
     }
 }
-
